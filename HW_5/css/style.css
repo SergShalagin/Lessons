@@ -1,0 +1,92 @@
+@import url(reset.css);
+@import url("https://fonts.googleapis.com/css?family=Inter:regular,500,600,700&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Poppins:regular,500,600,700&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Alumni+Sans+Collegiate+One:regular,italic&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Collegiate+One&family=Dancing+Script&display=swap');
+
+
+
+
+body {
+   font-family: 'Alumni Sans Collegiate One', sans-serif;
+   font-family: 'Dancing Script', cursive;
+}
+
+h1 {
+   font-family: "Poppins", serif;
+   font-size: 30px;
+   color: #37393F;
+   font-weight: 600;
+   text-align: left;
+   line-height: 1.4;
+   text-transform: capitalize;
+}
+
+h2 {
+   font-family: 'Inter', sans-serif;
+   font-size: 18px;
+   color: aquamarine;
+   font-weight: 500;
+   text-transform: capitalize;
+   line-height: 1.2;
+}
+
+.about {
+   font-family: 'Alumni Sans Collegiate One', sans-serif;
+   font-size: 16px;
+}
+
+span {
+   font-family: 'Inter', serif;
+   font-size: 18px;
+   color: blue;
+   text-shadow:
+      -5px -5px 10px rgba(255, 0, 0, 0.5),
+      -5px -2px 2px green;
+}
+
+.blue {
+   font-family: "Poppins";
+   color: #6B77E5;
+   font-size: 20px;
+   font-style: normal;
+   font-weight: 600;
+   line-height: 1.27;
+   text-align: left;
+}
+
+.text {
+   color: #7D7D7D;
+   font-family: "Inter", sans-serif;
+   font-size: 18px;
+   font-style: normal;
+   font-weight: 400;
+   line-height: 1.5;
+   text-align: justify;
+}
+
+.one {
+   color: #7D7D7D;
+   font-family: "Inter", serif;
+   font-size: 20px;
+   font-style: normal;
+   font-weight: 600;
+   line-height: 1.27;
+}
+
+p {
+   color: #7D7D7D;
+   font-family: 'Inter';
+   font-size: 18px;
+   font-style: normal;
+   font-weight: 500;
+   line-height: 1.5;
+}
+
+.up {
+   text-transform: uppercase;
+   font-weight: 700;
+   color: blueviolet;
+   text-decoration: underline;
+   line-height: 2;
+}
